@@ -33,7 +33,19 @@ PS:
 
 * Method + URL: GET, POST, PUT, DELETE a resource.
 
-\#\#More about 
+\#\#More about Methods\#\#
+
+GET 
+
+1. To obtain information safely and idempotently.
+   1. Safe means GET can only be used to get information not modify. So GET method will not change information in database.
+   2. idempotent means to the same URL, GET method should reply with same result.
+
+   GET Request example
+
+ 
+
+
 
 
 
